@@ -8,7 +8,7 @@ This website serves as my professional portfolio, offering a comprehensive overv
 
 ## 🛠️ Technologies Used
 
-- **UI**:
+- **User Interface**:
   - Purely based on HTML, CSS and JS
 - **Deployment**:
   - Netlify
@@ -22,7 +22,7 @@ This website serves as my professional portfolio, offering a comprehensive overv
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio website: [Vamsi's Portfolio](https://vamsi-portfoliosite.netlify.app/)
+Check out the live version of my portfolio website: [My Portfolio](https://vamsi-portfoliosite.netlify.app/)
 
 ## 📬 Contact
 
