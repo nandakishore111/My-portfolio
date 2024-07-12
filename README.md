@@ -1,4 +1,4 @@
-# 🌐 Y Naga Vamsi's Portfolio Website
+# 🌐 My Portfolio Website
 
 Welcome to the repository for my personal portfolio website! This project showcases my skills, projects, and provides an overview of my professional background.
 
