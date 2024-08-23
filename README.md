@@ -22,7 +22,7 @@ This website serves as my professional portfolio, offering a comprehensive overv
 
 ## 🚀 Live Demo
 
-Check out the live version of my portfolio website: [My Portfolio](https://vamsi-portfoliosite.netlify.app/)
+Check out the live version of my portfolio website: [My Portfolio](https://t-nanda-kishore.netlify.app/)
 
 ## 📬 Contact
 
