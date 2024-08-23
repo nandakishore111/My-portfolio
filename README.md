@@ -28,8 +28,8 @@ Check out the live version of my portfolio website: [My Portfolio](https://t-nan
 
 Feel free to reach out to me for any inquiries or collaborations:
 
-- **Email**: [yadavallinagavamsi@gmail.com](mailto:yadavallinagavamsi@gmail.com)
-- **LinkedIn**: [y-naga-vamsi](https://www.linkedin.com/in/y-naga-vamsi)
+- **Email**: [thammineninandakishore@gmail.com](mailto:[thammineninandakishore@gmail.com)
+- **LinkedIn**: [t-nanda-kishore](https://www.linkedin.com/in/t-nanda-kishore)
 
 ---
 
